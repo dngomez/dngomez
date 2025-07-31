@@ -1,4 +1,4 @@
-<h2 align="center">Hi I'm Diego Gómez an electronics and software engineer</h2>
+<h2 align="center">Hi I'm Diego Gómez a software and electronics engineer</h2>
 
 ###
 
